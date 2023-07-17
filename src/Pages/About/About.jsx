@@ -21,9 +21,7 @@ const About = () => {
   <p>
     Free enterprise and entrepreneurship is at our heart and we follow a Venture Studio model. Whether you are a student starting out in technology and business, or an aspiring Entrepreneur with ideas, or startup minded Entrepreneur In Residence (EIR), we have a seat at our table for each of you and we look forward to serving you through your personalized journey in an “Idea to Exit”  format, which is our speciality.
   </p>
-  <NavLink to={'/team'}>
-  <button className='team_btn'>Our team</button>
-  </NavLink>
+
   <Cardleft/>
   <CardRight/>
     </div>

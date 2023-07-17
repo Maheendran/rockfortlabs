@@ -42,7 +42,12 @@ spy={true} to={"service"} smooth={true} >
 spy={true} to={"contact"} smooth={true}>
    <p className="nav-item nav-link   text-dark  " href="">Contact <span class="sr-only">(current)</span></p>
 </Link></li>
-
+<li>   
+   <NavLink to='/team'>
+   
+   <p className="nav-item nav-link   text-dark  ">Team </p>
+</NavLink>
+</li>
       </ul>
     </div>
   </div>
