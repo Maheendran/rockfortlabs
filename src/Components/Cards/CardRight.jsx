@@ -68,7 +68,7 @@ if(!inView){
         <div className="col-12  col-sm-4 col-md-4  ms-auto text-center left_serviceimg">
         <motion.img 
          animate={animation}
-        className='img-fluid imge_icon' src="../assests/mission.gif" alt="" /> 
+        className='img-fluid imge_icon' src="../assests/Mission.gif" alt="" /> 
         </div>
     </div>
 </div>

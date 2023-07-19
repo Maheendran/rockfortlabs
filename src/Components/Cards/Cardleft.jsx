@@ -61,7 +61,7 @@ if(!inView){
         
         <motion.img 
         animate={animationreverse}
-        className='img-fluid imge_icon' src="../assests/vision.gif" alt="" /> 
+        className='img-fluid imge_icon' src="../assests/Vision.gif" alt="" /> 
        
         </div>
 
